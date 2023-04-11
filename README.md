@@ -1,5 +1,5 @@
-# Python-Data-Analytics
-Google playstore App rating Prediction
+# Python-App-rating-Prediction
+Google playstore App rating Prediction using Python - Data Analytics
 
 Below are the Project requirements for which I did Python execution and Writeup. You can find those files seperately my repositories.
 
